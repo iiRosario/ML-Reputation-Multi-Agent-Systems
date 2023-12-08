@@ -21,3 +21,19 @@ The primary goal of this project is to explore the nuanced dynamics of reputatio
 3. **Intelligent Agents:** Drones are designed as intelligent agents with predefined tasks, and their behavior is influenced by reputation values.
 
 4. **Outcome Analysis:** Comprehensive tools for analyzing and visualizing the outcomes of reputation value alterations on individual and collective drone behavior.
+
+#### Contribution Guidelines
+
+Contributions to the project are welcome! If you would like to contribute, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+#### License
+
+This project is licensed under the [MIT License](LICENSE).
+
+#### Contact
+
+For any inquiries or feedback, please contact [Diogo Rosário](mailto:se.dev.rosario@gmail.com).
+
+---
+
+*Note: The above README.md template provides a basic structure. Be sure to customize it according to the specific details and requirements of your project.*
