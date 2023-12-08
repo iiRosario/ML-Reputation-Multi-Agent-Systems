@@ -24,7 +24,7 @@ The primary goal of this project is to explore the nuanced dynamics of reputatio
 
 #### Image
 
-![Drone Reputation Simulator](predictions/redictionM.jpg)
+![Drone Reputation Simulator](predictions/predictionM.jpg)
 
 #### Learn More
 
