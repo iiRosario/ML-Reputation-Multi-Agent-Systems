@@ -22,6 +22,10 @@ The primary goal of this project is to explore the nuanced dynamics of reputatio
 
 4. **Outcome Analysis:** Comprehensive tools for analyzing and visualizing the outcomes of reputation value alterations on individual and collective drone behavior.
 
+#### Image
+
+![Drone Reputation Simulator](/predictions/redictionM.jpg)
+
 #### Learn More
 
 To delve deeper into the project and its theoretical foundations, refer to the [Reputation_Multi_Agent_Systems.pdf](Reputation_Multi_Agent_Systems.pdf) document.
