@@ -54,7 +54,7 @@ Contributions to the project are welcome! If you would like to contribute, pleas
 This project is licensed under the [MIT License](LICENSE).
 
 #### Contact
-
+https://github.com/SaltyChef/ML-Reputation-Multi-Agent-Systems
 For any inquiries or feedback, please contact [Diogo Rosário](mailto:se.dev.rosario@gmail.com).
 
 ---
