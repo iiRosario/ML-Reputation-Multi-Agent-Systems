@@ -26,6 +26,21 @@ The primary goal of this project is to explore the nuanced dynamics of reputatio
 
 ![Drone Reputation Simulator](predictions/predictionM.jpg)
 
+
+#### Running the Program
+
+To run the Drone Reputation Simulator, follow these steps:
+
+1. Ensure that you have Python installed on your machine. The simulator is compatible with Python 3.
+
+2. Open a terminal or command prompt and navigate to the project's root directory.
+
+3. Run the main.py file using the following command:
+
+    ```bash
+    python main.py
+    ```
+
 #### Learn More
 
 To delve deeper into the project and its theoretical foundations, refer to the [Reputation_Multi_Agent_Systems.pdf](Reputation_Multi_Agent_Systems.pdf) document.
